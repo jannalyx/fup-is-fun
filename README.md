@@ -1,7 +1,3 @@
-# FUP-is-Fun
-Minhas resoluções das atividades do professor David Sena da UFC de Quixadá.
-# Atividades de Lógica de Programação
-
 Resoluções das atividades de **Lógica de Programação** propostas pelo professor **David Sena** (sena@ufc.br) da **UFC - Campus Quixadá**.
 As atividades são utilizadas nas disciplinas de **Fundamentos de Programação**.
 
